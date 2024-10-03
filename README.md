@@ -9,6 +9,12 @@ This Arduino project automates feeding with a servo motor and plays "Fur Elise" 
 - **Real-Time Clock**: Uses the RTC (PCF8563) to keep track of time accurately.
 - **Buzzer**: Outputs the melody using a buzzer connected to pin 11.
 
+## Libraries
+
+- Wire.h
+- Rtc_Pcf8563.h
+- Servo.h
+
 ## Components
 
 - Arduino UNO (or compatible)
